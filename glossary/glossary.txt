@@ -1,0 +1,68 @@
+Kou	Коу
+IFF	<???>	Радиокоммунникационные сигналы дружественных юнитов
+Ahh	А-а-а
+Damn it	Проклятье
+Jammer	Джаммер
+Jammer	Подавитель РЛС
+firewall	файервол
+force-recon	разведчик
+EMP	ЭМИ	- пульсация симулякра, аки живого организма?
+Flatlining	Флэтлайнинг	Смерть мозга
+Haa	Хаа
+phew	фух
+blowing a gasket	не сдержаться	выпустить пар
+blowing a gasket	не сдержаться	прорвало
+stun flare	светошумовая ракета
+stun flare	оглушающая ракета
+Chinatsu	Чинатсу
+Suzushiro	Судзусиро
+GU	ВС	Всемирный союз
+City Defense Force	Городские Силы Обороны
+PMC	ЧВК
+VTOL	СВВП	Самолёт вертикального взлёта и посадки
+setup menu	меню подготовки
+auto-mode	автоматический режим
+skip mode	режим пропуска
+system menu	меню паузы
+title screen	титульный экран
+force crash	ульт. удар
+Nanoha	Наноха
+Aki	Аки
+Makoto	Макото
+Sora	Сора
+Naoki	Наоки
+Noi	Нои
+Gilbert	Гилберт
+Gregory	Григорий
+Eiji	Ейдзи
+Shizel	Шизл
+Mohawk	Могавк
+dive	погружение, дайв	в контексте прыжка в киберпространство
+Aigis	Айгис
+Rain Kirishima	Рейн Кирисима
+Kirishima	Кирисима
+Ark	Ковчег
+Assembler	Ассемблер
+Cyberbrain Syndrome	Синдром кибермозга
+Fenrir	Фенрир
+Newbies Impact	Битва новичков
+CDF	ГСО	Гражданские силы обороны
+Designer Child	Дизайнерский ребёнок
+Designer Child	Дизайнерское дитя
+Kisaragi Dorm	общежитие Кисараги
+Heat Gauge	Шкала нагрева
+health gauge	шкала здоровья
+Dashing	Движение, перемещение
+Boosters	Ускорители
+Surge Dash	Рывок
+Boost Dash	Ускорение
+Melee Canceling	Прерывание в ближнем бою
+Firearm Canceling	Прерывание дальнего боя
+Charge Attacks	Заряжаемые атаки
+Heat Charge	Тепловой заря
+EX Canceling	EX Прерывание
+Super Canceling	Супер прерывание
+Overheat Counters	Счётчик перегрева
+Kurihara	Курихара
+Koumei	Кумэй
+Neige-Aile	Нейдж-Айл

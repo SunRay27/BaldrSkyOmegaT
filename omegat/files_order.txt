@@ -1,0 +1,9 @@
+buttons.json
+mascotmessage.json
+personaldata.json
+rain_chapter1.json
+rain_chapter2.json
+reminiscence.json
+scenariochart.json
+system.json
+tutorial.json
